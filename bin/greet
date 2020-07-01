@@ -6,4 +6,4 @@ require_relative "../lib/greeting.rb"
 puts "d"
 puts "d"
 name = gets.strip
-greeing(name)
+greeting(name)
